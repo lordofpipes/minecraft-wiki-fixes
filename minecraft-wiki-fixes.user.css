@@ -25,7 +25,19 @@
     margin-left: 0px;
   }
 
-  .wds-global-footer, #mixed-content-footer, #ds_cpp_inner, #WikiaBar, .global-navigation, .fandom-sticky-header, .page__right-rail, .wds-global-footer {
+  .wds-global-footer,
+  #mixed-content-footer,
+  #ds_cpp_inner,
+  #WikiaBar,
+  .global-navigation,
+  .fandom-sticky-header,
+  .page__right-rail,
+  .wds-global-footer,
+  .gpt-ad,
+  #ds_cpp_inner,
+  .ds_im,
+  .ds_cpp
+  {
     display: none;
   }
 }
