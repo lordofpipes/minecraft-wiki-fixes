@@ -13,7 +13,7 @@
 
 @-moz-document domain("minecraft.fandom.com") {
   body {
-    font-family: var(--link-color), "Rubik", "Liberation Sans", sans-serif !important;
+    font-family: var(--font), "Rubik", "Liberation Sans", sans-serif !important;
   }
 
   .resizable-container {
